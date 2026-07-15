@@ -1,0 +1,10 @@
+{
+  "name": "Spoilage",
+  "short_name": "Spoilage",
+  "description": "Build a deck that is always dying—and learn to make its death useful.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171814",
+  "theme_color": "#52643a",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
